@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-ecommerce/static/css/main.2d9b2113.css",
+    "main.js": "/react-ecommerce/static/js/main.41b95391.js",
+    "static/js/453.8ab44547.chunk.js": "/react-ecommerce/static/js/453.8ab44547.chunk.js",
+    "static/media/NewCollection.jpg": "/react-ecommerce/static/media/NewCollection.6716555c3476e8f16814.jpg",
+    "static/media/daily-moisturizer.jpg": "/react-ecommerce/static/media/daily-moisturizer.5528d3c6932f8217d0e4.jpg",
+    "static/media/night-care-cream.jpg": "/react-ecommerce/static/media/night-care-cream.2b0bb9d3521c503a7037.jpg",
+    "static/media/deep-cleanser.jpg": "/react-ecommerce/static/media/deep-cleanser.9d510a9a934261348c9b.jpg",
+    "static/media/given-skin-toner.jpg": "/react-ecommerce/static/media/given-skin-toner.9d82ad3d6e748e1738ae.jpg",
+    "static/media/coco-body-oil.jpg": "/react-ecommerce/static/media/coco-body-oil.8fad4bb9befe153057b7.jpg",
+    "static/media/bg-01-free-img.jpg": "/react-ecommerce/static/media/bg-01-free-img.64228b4ca85d45a4bcca.jpg",
+    "static/media/cart.png": "/react-ecommerce/static/media/cart.41eb65106feb2c862600.png",
+    "static/media/logo.png": "/react-ecommerce/static/media/logo.3801e107a0a3e2876c38.png",
+    "index.html": "/react-ecommerce/index.html",
+    "main.2d9b2113.css.map": "/react-ecommerce/static/css/main.2d9b2113.css.map",
+    "main.41b95391.js.map": "/react-ecommerce/static/js/main.41b95391.js.map",
+    "453.8ab44547.chunk.js.map": "/react-ecommerce/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d9b2113.css",
+    "static/js/main.41b95391.js"
+  ]
+}
